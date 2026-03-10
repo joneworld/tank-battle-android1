@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.TankBattle" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/player_tank</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:windowFullscreen">true</item>
+    </style>
+</resources>

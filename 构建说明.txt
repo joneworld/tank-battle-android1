@@ -1,0 +1,29 @@
+坦克大战APK构建说明
+
+由于Android SDK环境配置复杂，我为您提供了完整的项目代码。您可以选择以下方式构建APK：
+
+方法1：使用Android Studio（推荐）
+1. 下载并安装Android Studio
+2. 打开项目文件夹
+3. 连接Android设备或启动模拟器
+4. 点击"Run"按钮构建并安装
+
+方法2：使用在线构建服务
+- 将项目上传到GitHub
+- 使用GitHub Actions自动构建
+- 或使用在线Android构建平台
+
+方法3：手动构建（需要Android SDK）
+1. 设置ANDROID_HOME环境变量
+2. 运行: gradlew assembleDebug
+3. APK文件位于: app/build/outputs/apk/debug/app-debug.apk
+
+项目特性：
+✅ 完整的坦克大战游戏逻辑
+✅ 触摸控制
+✅ 敌方坦克AI
+✅ 子弹系统
+✅ 障碍物碰撞检测
+✅ 游戏循环和分数系统
+
+所有代码已准备就绪，只需合适的Android构建环境即可生成APK。

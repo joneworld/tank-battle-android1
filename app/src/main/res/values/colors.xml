@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="game_bg">#2C3E50</color>
+    <color name="player_tank">#3498DB</color>
+    <color name="enemy_tank">#E74C3C</color>
+    <color name="bullet">#F39C12</color>
+    <color name="wall">#95A5A6</color>
+</resources>
